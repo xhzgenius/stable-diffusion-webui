@@ -1,0 +1,4 @@
+Resize to: 3072x4096 (crop)
+Upscale: 4.0, visibility: 1.0, model:R-ESRGAN 4x+ Anime6B
+Upscale: 4.0, visibility: 1, model:R-ESRGAN 4x+ Anime6B
+
